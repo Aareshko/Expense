@@ -78,7 +78,16 @@ https://docs.google.com/document/d/17MDSTCW8MYdfHxXIm8_lqCLMthPjlgmveH-AnZmIR8Y/
 
 ### Screenshot
 
-##Deleting the expense
+## First Page
+
+![enter image description here](https://github.com/seniorfullstackdev/Expense/blob/master/screen/Screen%20Shot%202018-04-18%20at%207.04.18%20AM.png?raw=true)
+
+
+## Main Page
+
+![enter image description here](https://github.com/seniorfullstackdev/Expense/blob/master/screen/Screen%20Shot%202018-04-18%20at%207.04.56%20AM.png?raw=true)
+
+## Deleting the expense
 
 ![alt text](screen/delete.png)
  a@b.com aaa
